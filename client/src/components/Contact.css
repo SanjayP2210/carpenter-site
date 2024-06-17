@@ -1,0 +1,15 @@
+.contact {
+    text-align: center;
+    margin: 2rem;
+}
+
+.contact h1 {
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+.contact p {
+    font-size: 1.2rem;
+    color: #666;
+    margin: 0.5rem 0;
+}

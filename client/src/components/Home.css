@@ -1,0 +1,19 @@
+.home {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin: 2rem;
+    top: 50%;
+    height: 80vh;
+}
+
+.home h1 {
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+.home p {
+    font-size: 1.2rem;
+    color: #666;
+}
